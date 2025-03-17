@@ -2,10 +2,12 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Home() {
+function Event() {
   return (
     <>
-      <h1>Home</h1>
+        <h1>Events</h1>
     </>
-  );
+  )
 }
+
+export default Event;
