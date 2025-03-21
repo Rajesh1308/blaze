@@ -16,6 +16,7 @@ export default function Home() {
       <h1>Home</h1>
       <button onClick={handleEventsClick}>Events</button>
       <button onClick={handleAboutClick}>About Us</button>
+      <p>Rajesh made changes on Home page</p>
     </>
   );
 }
