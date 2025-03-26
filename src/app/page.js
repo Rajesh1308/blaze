@@ -80,7 +80,7 @@ const Home = () => {
         <div className="department">DEPARTMENT OF ELECTRONICS AND INSTRUMENTATION</div>
         <div className="presents">PRESENTS</div>
 
-        <h1 className="event-title">BLAZE-25</h1>
+        <h1 className="event-title">BLAZE'25</h1>
 
         <div className="event-type">AN INTER-COLLEGE TECHNICAL EXTRAVAGANZA</div>
 
@@ -104,19 +104,19 @@ const Home = () => {
           <div className="col-md-3 d-flex align-items-stretch flex-grow-1">
             <div className="event-card">
               <h3>💡 Technical Events</h3>
-              <p>Showcase your innovation and problem-solving skills through coding, robotics, and more.</p>
-            </div>
-          </div>
-          <div className="col-md-3 d-flex align-items-stretch flex-grow-1">
-            <div className="event-card">
-              <h3>🎭 Non-Technical Events</h3>
-              <p>Unleash your creativity and fun spirit with quizzes, debates, and cultural performances.</p>
+              <p>Showcase your innovation and problem-solving skills through coding, paper presentation, technical quizzes and more.</p>
             </div>
           </div>
           <div className="col-md-3 d-flex align-items-stretch flex-grow-1">
             <div className="event-card">
               <h3>🛠 Workshops</h3>
-              <p>Gain hands-on experience from industry experts in the latest technologies and trends.</p>
+              <p>Gain hands-on experience from industry experts in the latest technologies like IoT and Advanced Embedded systems.</p>
+            </div>
+          </div>
+          <div className="col-md-3 d-flex align-items-stretch flex-grow-1">
+            <div className="event-card">
+              <h3>🎭 Non-Technical Events</h3>
+              <p>Unleash your creativity and engage in fun activities like cine funy, mind melt and more.</p>
             </div>
           </div>
         </div>
